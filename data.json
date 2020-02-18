@@ -1,0 +1,44 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1550345332-09e3ac987658?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Maria Bonita",
+      "email": "maria_bonitinha@gmail.com",
+      "birth": 982022400000,
+      "gender": "F",
+      "blood": "O+",
+      "weight": "89",
+      "height": "156",
+      "id": 1
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Yasmin Braga Teixeira",
+      "birth": 883612800000,
+      "gender": "F",
+      "services": "musculacao, natacao",
+      "created_at": 1579656050731
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Dalton Varão",
+      "birth": 1577836800000,
+      "gender": "M",
+      "services": "volei",
+      "created_at": 1579657135985
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1485727749690-d091e8284ef3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80",
+      "name": "Carla Coral",
+      "birth": 883958400000,
+      "gender": "F",
+      "services": "yoga",
+      "created_at": 1579660210081
+    }
+  ]
+}
